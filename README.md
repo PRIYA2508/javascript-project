@@ -1,1 +1,1 @@
-# javascript-project
+# tic-tac-toe
